@@ -1,15 +1,14 @@
 [project]
-name = "riippuvuuksien-injektointi"
+name = "viikko1"
 version = "0.1.0"
 description = ""
 authors = [
-    {name = "Matti Luukkainen",email = "mluukkai@iki.fi"}
+    { name = "Matti Luukkainen", email = "mluukkai@iki.fi" }
 ]
-license = {text = "MIT"}
+license = { text = "MIT" }
 readme = "README.md"
 requires-python = "^3.12"
-dependencies = [
-]
+dependencies = []
 
 [dependency-groups]
 dev = [
